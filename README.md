@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Afolayan Afolarin</h1>
-<h3 align="center">A passionate frontend & backend developer from Nigeria</h3>
+<h3 align="center">A passionate frontend & backend developer from Nigeria With 2+ years of experience in the IT field. With strong full-stack coding skills, I am able to develop high quality and highly secure code using modern methods</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smithisdname&label=Profile%20views&color=0e75b6&style=flat" alt="smithisdname" /> </p>
 
@@ -25,4 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smithisdname&show_icons=true&locale=en" alt="smithisdname" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smithisdname&" alt="smithisdname" /></p>
-to contact me use the above email
+
+Thanks! ❤️
