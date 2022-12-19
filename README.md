@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Afolayan Afolarin</h1>
 <h3 align="center">A passionate frontend & backend developer from Nigeria, With 2+ years of experience in the IT field. With strong full-stack coding skills, I am able to develop high quality and highly secure code using modern methods</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=smithisdname&label=Profile%20views&color=0e75b6&style=flat" alt="smithisdname" /[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=smithisdname&label=Profile%20views&color=0e75b6&style=flat" alt="smithisdname" /[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/smithisdname/github-profile-trophy)> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smithisdname" alt="smithisdname" /></a> </p>
 
