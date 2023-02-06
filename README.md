@@ -1,6 +1,7 @@
-<h1 align="right">Hi 👋, I'm Afolayan Afolarin</h1>
-<h3 align="left">A passionate frontend & backend developer from Nigeria, With 2+ years of experience in the IT field. With strong full-stack coding skills, I am able to develop high quality and highly secure code using modern methods</h3>
 ![68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e6769663f6369643d656366303565343762306c786a6d7068637737387132686c7170706b37307572326e3167356a626](https://user-images.githubusercontent.com/119043262/216997098-d182d3b2-4b5b-44d0-8419-470ab914bf66.gif)
+<h1 align="center">Hi 👋, I'm Afolayan Afolarin</h1>
+<h3 align="center">A passionate frontend & backend developer from Nigeria, With 2+ years of experience in the IT field. With strong full-stack coding skills, I am able to develop high quality and highly secure code using modern methods</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smithisdname&label=Profile%20views&color=0e75b6&style=flat" alt="smithisdname" /[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/smithisdname/github-profile-trophy)> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smithisdname" alt="smithisdname" /></a> </p>
